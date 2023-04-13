@@ -21,3 +21,4 @@ f = f*f
 f = 5* f
 print(f)
 f =1
+f =23
